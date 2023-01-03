@@ -4,8 +4,8 @@ I am a full-stack developer of Web Apps under Python, HTML5, Javascrypt and CSS 
 
 ## Brief Intro
 :soon: Udemy The Complete Web Development Bootcamp by *Dr. Angela Yu
-Developer and Lead Instructor*. 
-:soon: Harvard __CS50w__ Web __CS50w__ Web Programming with Python and JavaScript  
+Developer and Lead Instructor* (2023)  
+:soon: Harvard __CS50w__ Web __CS50w__ Web Programming with Python and JavaScript (2023)  
 :white_check_mark: Harvard __CS50x__ Introduction to Comouter Science  
 :white_check_mark: Master in Project Management  (2022)  
 :white_check_mark: MBA  (2020)  
