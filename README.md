@@ -10,7 +10,6 @@ Developer and Lead Instructor* (2023)
 :white_check_mark: Master in Project Management  (2022)  
 :white_check_mark: MBA  (2020)  
 :white_check_mark: Engineer Bachelor Degree  (2016)  
-I have an Engineer Bachelor degree from Argentina but none of it matters when I became a developer of Web Application Services that enjoy working at either the front-end or back-end of any project.
 
 As I finish my MBA(2020), nearly all my recent projects have been around entrepreneurs scaling their business models and getting into this world of technology!
 
