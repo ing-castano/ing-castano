@@ -1,8 +1,11 @@
-## Hi there...I'm Martin Castaño 👋
+# Hi there...I'm Martin Castaño 👋
 
 I am a full-stack developer of Web Apps under Python, HTML5, Javascrypt and CSS languages as well as Flask and Bootstrap framework together with some Jinja syntax.
 
-### Some Intro
+## Brief Intro
+:white_check_mark: Master in Project Management  (2022)  
+:white_check_mark: MBA  (2020)  
+:white_check_mark: Engineer Bachelor Degree  (2016)  
 I have an Engineer Bachelor degree from Argentina but none of it matters when I became a developer of Web Application Services that enjoy working at either the front-end or back-end of any project.
 
 As I finish my MBA(2020), nearly all my recent projects have been around entrepreneurs scaling their business models and getting into this world of technology!
@@ -28,5 +31,5 @@ I am actually looking foward to collaborate and hopefully get a full remote job 
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
 ## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ing-castano)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ing-castano)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ing-castano)
