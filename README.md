@@ -1,6 +1,6 @@
 # Hi there...I'm Martin Castaño 👋
 
-I am a full-stack developer of Web Apps under Python, HTML5, Javascrypt and CSS languages as well as Flask and Bootstrap framework together with some Jinja syntax.
+Hello! I'm Martin, a full-stack developer specializing in Python, JavaScript, and web frameworks like React and Flask. My background spans software engineering and project management, and I'm passionate about creating efficient, user-friendly applications.  
 
 ## Brief Intro
 :white_check_mark: College Degree in Software Development ([IFTS 29](https://ifts29.com.ar/)) <br>
@@ -9,8 +9,6 @@ I am a full-stack developer of Web Apps under Python, HTML5, Javascrypt and CSS 
 :white_check_mark: Master in Project Management  (2022)  
 :white_check_mark: MBA  (2020)  
 :white_check_mark: Engineer Bachelor Degree  (2016)  
-
-Hello! I'm Martin, a full-stack developer specializing in Python, JavaScript, and web frameworks like React and Flask. My background spans software engineering and project management, and I'm passionate about creating efficient, user-friendly applications.  
 
 Currently, I work as a full-stack developer at a startup in the European energy sector, focusing on React for the front end and C# for backend architecture. 
 
